@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "BinarySearch/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Recursion": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BinarySearch.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BinarySearch.dll": {}
+        }
+      },
+      "QuickSort/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Recursion": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/QuickSort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QuickSort.dll": {}
+        }
+      },
+      "Recursion/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Recursion.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Recursion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinarySearch/1.0.0": {
+      "type": "project",
+      "path": "../BinarySearch/BinarySearch.csproj",
+      "msbuildProject": "../BinarySearch/BinarySearch.csproj"
+    },
+    "QuickSort/1.0.0": {
+      "type": "project",
+      "path": "../QuickSort/QuickSort.csproj",
+      "msbuildProject": "../QuickSort/QuickSort.csproj"
+    },
+    "Recursion/1.0.0": {
+      "type": "project",
+      "path": "../Recursion/Recursion.csproj",
+      "msbuildProject": "../Recursion/Recursion.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "BinarySearch >= 1.0.0",
+      "QuickSort >= 1.0.0",
+      "Recursion >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kvenm\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\projects\\REPO\\Homework3.3\\Homeworkk3.3\\Homework3.3.csproj",
+      "projectName": "Homework3.3",
+      "projectPath": "C:\\projects\\REPO\\Homework3.3\\Homeworkk3.3\\Homework3.3.csproj",
+      "packagesPath": "C:\\Users\\kvenm\\.nuget\\packages\\",
+      "outputPath": "C:\\projects\\REPO\\Homework3.3\\Homeworkk3.3\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\kvenm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\projects\\REPO\\Homework3.3\\BinarySearch\\BinarySearch.csproj": {
+              "projectPath": "C:\\projects\\REPO\\Homework3.3\\BinarySearch\\BinarySearch.csproj"
+            },
+            "C:\\projects\\REPO\\Homework3.3\\QuickSort\\QuickSort.csproj": {
+              "projectPath": "C:\\projects\\REPO\\Homework3.3\\QuickSort\\QuickSort.csproj"
+            },
+            "C:\\projects\\REPO\\Homework3.3\\Recursion\\Recursion.csproj": {
+              "projectPath": "C:\\projects\\REPO\\Homework3.3\\Recursion\\Recursion.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

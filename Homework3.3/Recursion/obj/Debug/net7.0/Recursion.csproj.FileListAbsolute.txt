@@ -1,0 +1,11 @@
+C:\projects\Homework3.3\Recursion\bin\Debug\net7.0\Recursion.deps.json
+C:\projects\Homework3.3\Recursion\bin\Debug\net7.0\Recursion.dll
+C:\projects\Homework3.3\Recursion\bin\Debug\net7.0\Recursion.pdb
+C:\projects\Homework3.3\Recursion\obj\Debug\net7.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Homework3.3\Recursion\obj\Debug\net7.0\Recursion.AssemblyInfoInputs.cache
+C:\projects\Homework3.3\Recursion\obj\Debug\net7.0\Recursion.AssemblyInfo.cs
+C:\projects\Homework3.3\Recursion\obj\Debug\net7.0\Recursion.csproj.CoreCompileInputs.cache
+C:\projects\Homework3.3\Recursion\obj\Debug\net7.0\Recursion.dll
+C:\projects\Homework3.3\Recursion\obj\Debug\net7.0\refint\Recursion.dll
+C:\projects\Homework3.3\Recursion\obj\Debug\net7.0\Recursion.pdb
+C:\projects\Homework3.3\Recursion\obj\Debug\net7.0\ref\Recursion.dll

@@ -1,0 +1,15 @@
+C:\projects\Homework3.3\BinarySearch\bin\Debug\net7.0\BinarySearch.deps.json
+C:\projects\Homework3.3\BinarySearch\bin\Debug\net7.0\BinarySearch.dll
+C:\projects\Homework3.3\BinarySearch\bin\Debug\net7.0\BinarySearch.pdb
+C:\projects\Homework3.3\BinarySearch\obj\Debug\net7.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Homework3.3\BinarySearch\obj\Debug\net7.0\BinarySearch.AssemblyInfoInputs.cache
+C:\projects\Homework3.3\BinarySearch\obj\Debug\net7.0\BinarySearch.AssemblyInfo.cs
+C:\projects\Homework3.3\BinarySearch\obj\Debug\net7.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\projects\Homework3.3\BinarySearch\obj\Debug\net7.0\BinarySearch.dll
+C:\projects\Homework3.3\BinarySearch\obj\Debug\net7.0\refint\BinarySearch.dll
+C:\projects\Homework3.3\BinarySearch\obj\Debug\net7.0\BinarySearch.pdb
+C:\projects\Homework3.3\BinarySearch\obj\Debug\net7.0\ref\BinarySearch.dll
+C:\projects\Homework3.3\BinarySearch\bin\Debug\net7.0\Recursion.dll
+C:\projects\Homework3.3\BinarySearch\bin\Debug\net7.0\Recursion.pdb
+C:\projects\Homework3.3\BinarySearch\obj\Debug\net7.0\BinarySearch.csproj.AssemblyReference.cache
+C:\projects\Homework3.3\BinarySearch\obj\Debug\net7.0\BinarySearch.csproj.CopyComplete
